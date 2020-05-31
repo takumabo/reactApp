@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { createStore, applyMiddleware } from 'redux';","map":{"version":3,"sources":["/Users/boutakuma/Desktop/next2_app/store.js"],"names":["createStore","applyMiddleware"],"mappings":"AAAA,SAASA,WAAT,EAAqBC,eAArB,QAA4C,OAA5C","sourcesContent":["import { createStore,applyMiddleware } from 'redux';\n"]},"metadata":{},"sourceType":"module"}
